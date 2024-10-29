@@ -24,3 +24,7 @@ def another_function():
 
 def push_check():
     print("push check function")
+
+
+def example_check():
+    print("example check function")
