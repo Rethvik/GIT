@@ -1,15 +1,18 @@
-def simple_function(p, n):
+def simple_function(p, n, o):
     print("simple_function")
 
 
-simple_function(1, 2)
+simple_function(1, 2, 3)
 # calling siple function in another function
 
 
 def call_another_function():
-    l = "string"
-    return simple_function(1, 2)
+    return simple_function(1, 2, 3)
 
 
 print("THIS IS ADDED IN FEATURE BRANCH")
 call_another_function()
+
+
+def stash_check():
+    print("stash check function")
