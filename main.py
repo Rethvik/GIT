@@ -7,7 +7,7 @@ simple_function(1, 2, 3)
 
 
 def call_another_function():
-    return simple_function(1, 2, 3)
+    return simple_function(1, 2, 5)
 
 
 print("THIS IS ADDED IN FEATURE BRANCH")
