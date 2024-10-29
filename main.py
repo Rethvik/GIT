@@ -16,3 +16,7 @@ call_another_function()
 
 def stash_check():
     print("stash check function")
+
+
+def push_check():
+    print("push check function")
