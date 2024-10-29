@@ -7,6 +7,7 @@ simple_function()
 
 
 def call_another_function():
+    l = "string"
     return simple_function()
 
 
