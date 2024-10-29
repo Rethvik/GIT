@@ -18,5 +18,10 @@ def stash_check():
     print("stash check function")
 
 
+<<<<<<< HEAD
 def another_function():
     print("another function")
+=======
+def push_check():
+    print("push check function")
+>>>>>>> 3f13355faa15d4cd4efd510da63ca59b66159274
