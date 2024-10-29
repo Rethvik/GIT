@@ -24,3 +24,7 @@ def push_check():
 
 def another_function():
     print("another function")
+
+
+def merge_check():
+    print("merge check function")
